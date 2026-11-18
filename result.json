@@ -1,0 +1,5 @@
+{
+  "url": "https://httpbin.org/get?q=python",
+  "query": "python",
+  "user_agent": "python-requests/2.34.2"
+}
