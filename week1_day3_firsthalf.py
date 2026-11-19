@@ -108,5 +108,3 @@ print(arr3d)
 
 for i in range(arr3d.shape[0]):
     print(f"Slice {i} along axis 0 -> shape: {arr3d[i].shape}")
-
-    

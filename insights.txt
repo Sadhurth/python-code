@@ -1,0 +1,4 @@
+bar_avg_salary.png: Finance has the highest average salary (INR 90,000).
+hist_salary.png: Most employees earn between 45,000 and 75,000; the median salary is INR 56,000.
+scatter_salary.png: Karthik (Finance) earns the most at INR 90,000, while Arun (Sales) earns the least at INR 30,000.
+line_city_salary.png: Mumbai pays the highest average salary and Chennai the lowest.
